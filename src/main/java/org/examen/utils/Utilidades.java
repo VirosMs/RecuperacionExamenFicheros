@@ -26,7 +26,7 @@ public class Utilidades {
     //                                 Debe tener en cuenta también el parámetro sexo para filtrar por sexo.
     public static List<PeliculaOscarizada> leerPeliculasOscarizadasCsv(Path file) throws IOException {
         if (file == null) {
-            throw new IllegalArgumentException("No se ha encontrado el fichero");
+            throw new IllegalArgumentException("La ruta del fichero no puede ser null");
         }
 
 
@@ -56,16 +56,29 @@ public class Utilidades {
 
     public static List<Actor> convertirPeliculasOscarizadasEnActores(List<PeliculaOscarizada> peliculasOscarizadas) {
         if (peliculasOscarizadas == null) {
-            throw new IllegalArgumentException("No se ha encontrado el fichero");
+            throw new IllegalArgumentException("Películas no puede ser null");
         }
 
         List<Actor> listActores = new ArrayList<>();
         for(PeliculaOscarizada peliculaOscarizada : peliculasOscarizadas){
-            listActores.add(new Actor(peliculaOscarizada.getActor(), peliculaOscarizada.getSexo(),
-                    calcularEdad(peliculaOscarizada.getEdad(), peliculaOscarizada.getAnyo()), List.of(new Pelicula(peliculaOscarizada.getPelicula(), peliculaOscarizada.getAnyo()))));
-        }
-        return listActores;
+            Actor actor = listActores.stream().filter(a -> a.getNombre().equals(peliculaOscarizada.getActor())).findFirst().orElse(null);
+            if(actor == null) {
+                List<Pelicula> peliculas = new ArrayList<>();
+                peliculas.add(new Pelicula(peliculaOscarizada.getPelicula(), peliculaOscarizada.getAnyo()));
 
+                listActores.add(new Actor(peliculaOscarizada.getActor(), peliculaOscarizada.getSexo(),
+                        calcularEdad(peliculaOscarizada.getEdad(), peliculaOscarizada.getAnyo()),
+                        peliculas));
+            }else{
+                listActores.forEach(a -> {
+                    if(a.getNombre().equals(peliculaOscarizada.getActor())){
+                        a.getPeliculas().add(new Pelicula(peliculaOscarizada.getPelicula(), peliculaOscarizada.getAnyo()));
+                    }
+                });
+            }
+        }
+
+        return  listActores;
     }
 
     public static int calcularEdad(int edad, int anyoOscar) {
@@ -81,10 +94,14 @@ public class Utilidades {
 
     public static void escribirActoresenJson(List<Actor> actores, Path ruta) {
         if (actores == null) {
-            throw new IllegalArgumentException("No se ha encontrado el fichero");
+            throw new IllegalArgumentException("Actores no puede ser null");
         }
 
         try{
+            if(!Files.exists(ruta.getParent())){
+                Files.createDirectories(ruta.getParent());
+            }
+
             ObjectMapper objectMapper = new ObjectMapper();
             objectMapper.enable(SerializationFeature.INDENT_OUTPUT);
             objectMapper.writeValue(ruta.toFile(), actores);
@@ -99,23 +116,40 @@ public class Utilidades {
 
     public static List<String> actoresConMasdeUnOscar(List<Actor> actores) {
         if (actores == null) {
-            throw new IllegalArgumentException("No se ha encontrado el fichero");
+            throw new IllegalArgumentException("Actores no puede ser null");
         }
 
+        List<String> actoresConMasdeUnOscar = new ArrayList<>();
+
+        actores.forEach(actor -> {
+            if(actor.getPeliculas().size() > 1){
+                actoresConMasdeUnOscar.add(actor.getNombre());
+            }
+        });
 
 
-        return null;
+        return actoresConMasdeUnOscar;
     }
 
     // 5. actoresMasJovenesEnGanarUnOscar: devuelve una lista de Strings con el actor y la actriz más jóvenes en ganar un Oscar.
-    public static List<String> actoresMasJovenesEnGanarUnOscar(List<Actor> actores) {
+    public static List<String> actoresMasJovenesEnGanarUnOscar(List<PeliculaOscarizada> actores) {
         if (actores == null) {
             throw new IllegalArgumentException("No se ha encontrado el fichero");
         }
 
+        List<String> actoresMasJovenesEnGanarUnOscar = new ArrayList<>();
+
+        actores.stream().sorted((Comparator.comparingInt(PeliculaOscarizada::getEdad))).filter(peliculaOscarizada -> peliculaOscarizada.getSexo().equalsIgnoreCase("H")).findFirst().ifPresent(peliculaOscarizada -> {
+            actoresMasJovenesEnGanarUnOscar.add(peliculaOscarizada.getActor());
+        });
 
 
-        return null;
+        actores.stream().sorted((Comparator.comparingInt(PeliculaOscarizada::getEdad))).filter(peliculaOscarizada -> peliculaOscarizada.getSexo().equalsIgnoreCase("M")).findFirst().ifPresent(peliculaOscarizada -> {
+            actoresMasJovenesEnGanarUnOscar.add(peliculaOscarizada.getActor());
+        });
+
+
+        return actoresMasJovenesEnGanarUnOscar;
     }
 
 }

@@ -1,0 +1,1397 @@
+[ {
+  "name" : "Emil Jannings",
+  "sex" : "H",
+  "yearOfBirth" : 1884,
+  "movies" : [ {
+    "title" : "The Last Command, The Way of All Flesh",
+    "year" : 1928
+  } ]
+}, {
+  "name" : "Warner Baxter",
+  "sex" : "H",
+  "yearOfBirth" : 1888,
+  "movies" : [ {
+    "title" : "In Old Arizona",
+    "year" : 1929
+  } ]
+}, {
+  "name" : "George Arliss",
+  "sex" : "H",
+  "yearOfBirth" : 1868,
+  "movies" : [ {
+    "title" : "Disraeli",
+    "year" : 1930
+  } ]
+}, {
+  "name" : "Lionel Barrymore",
+  "sex" : "H",
+  "yearOfBirth" : 1878,
+  "movies" : [ {
+    "title" : "A Free Soul",
+    "year" : 1931
+  } ]
+}, {
+  "name" : "Wallace Beery",
+  "sex" : "H",
+  "yearOfBirth" : 1885,
+  "movies" : [ {
+    "title" : "The Champ",
+    "year" : 1932
+  } ]
+}, {
+  "name" : "Fredric March",
+  "sex" : "H",
+  "yearOfBirth" : 1897,
+  "movies" : [ {
+    "title" : "Dr. Jekyll and Mr. Hyde",
+    "year" : 1932
+  }, {
+    "title" : "The Best Years of Our Lives",
+    "year" : 1946
+  } ]
+}, {
+  "name" : "Charles Laughton",
+  "sex" : "H",
+  "yearOfBirth" : 1899,
+  "movies" : [ {
+    "title" : "The Private Life of Henry VIII",
+    "year" : 1933
+  } ]
+}, {
+  "name" : "Clark Gable",
+  "sex" : "H",
+  "yearOfBirth" : 1900,
+  "movies" : [ {
+    "title" : "It Happened One Night",
+    "year" : 1934
+  } ]
+}, {
+  "name" : "Victor McLaglen",
+  "sex" : "H",
+  "yearOfBirth" : 1886,
+  "movies" : [ {
+    "title" : "The Informer",
+    "year" : 1935
+  } ]
+}, {
+  "name" : "Paul Muni",
+  "sex" : "H",
+  "yearOfBirth" : 1895,
+  "movies" : [ {
+    "title" : "The Story of Louis Pasteur",
+    "year" : 1936
+  } ]
+}, {
+  "name" : "Spencer Tracy",
+  "sex" : "H",
+  "yearOfBirth" : 1900,
+  "movies" : [ {
+    "title" : "Captains Courageous",
+    "year" : 1937
+  }, {
+    "title" : "Boys Town",
+    "year" : 1938
+  } ]
+}, {
+  "name" : "Robert Donat",
+  "sex" : "H",
+  "yearOfBirth" : 1905,
+  "movies" : [ {
+    "title" : "Goodbye, Mr. Chips",
+    "year" : 1939
+  } ]
+}, {
+  "name" : "James Stewart",
+  "sex" : "H",
+  "yearOfBirth" : 1908,
+  "movies" : [ {
+    "title" : "The Philadelphia Story",
+    "year" : 1940
+  } ]
+}, {
+  "name" : "Gary Cooper",
+  "sex" : "H",
+  "yearOfBirth" : 1901,
+  "movies" : [ {
+    "title" : "Sergeant York",
+    "year" : 1941
+  }, {
+    "title" : "High Noon",
+    "year" : 1952
+  } ]
+}, {
+  "name" : "James Cagney",
+  "sex" : "H",
+  "yearOfBirth" : 1899,
+  "movies" : [ {
+    "title" : "Yankee Doodle Dandy",
+    "year" : 1942
+  } ]
+}, {
+  "name" : "Paul Lukas",
+  "sex" : "H",
+  "yearOfBirth" : 1895,
+  "movies" : [ {
+    "title" : "Watch on the Rhine",
+    "year" : 1943
+  } ]
+}, {
+  "name" : "Bing Crosby",
+  "sex" : "H",
+  "yearOfBirth" : 1903,
+  "movies" : [ {
+    "title" : "Going My Way",
+    "year" : 1944
+  } ]
+}, {
+  "name" : "Ray Milland",
+  "sex" : "H",
+  "yearOfBirth" : 1906,
+  "movies" : [ {
+    "title" : "The Lost Weekend",
+    "year" : 1945
+  } ]
+}, {
+  "name" : "Ronald Colman",
+  "sex" : "H",
+  "yearOfBirth" : 1890,
+  "movies" : [ {
+    "title" : "A Double Life",
+    "year" : 1947
+  } ]
+}, {
+  "name" : "Laurence Olivier",
+  "sex" : "H",
+  "yearOfBirth" : 1907,
+  "movies" : [ {
+    "title" : "Hamlet",
+    "year" : 1948
+  } ]
+}, {
+  "name" : "Broderick Crawford",
+  "sex" : "H",
+  "yearOfBirth" : 1911,
+  "movies" : [ {
+    "title" : "All the King's Men",
+    "year" : 1949
+  } ]
+}, {
+  "name" : "José Ferrer",
+  "sex" : "H",
+  "yearOfBirth" : 1911,
+  "movies" : [ {
+    "title" : "Cyrano de Bergerac",
+    "year" : 1950
+  } ]
+}, {
+  "name" : "Humphrey Bogart",
+  "sex" : "H",
+  "yearOfBirth" : 1899,
+  "movies" : [ {
+    "title" : "The African Queen",
+    "year" : 1951
+  } ]
+}, {
+  "name" : "William Holden",
+  "sex" : "H",
+  "yearOfBirth" : 1918,
+  "movies" : [ {
+    "title" : "Stalag 17",
+    "year" : 1953
+  } ]
+}, {
+  "name" : "Marlon Brando",
+  "sex" : "H",
+  "yearOfBirth" : 1924,
+  "movies" : [ {
+    "title" : "On the Waterfront",
+    "year" : 1954
+  }, {
+    "title" : "The Godfather",
+    "year" : 1972
+  } ]
+}, {
+  "name" : "Ernest Borgnine",
+  "sex" : "H",
+  "yearOfBirth" : 1916,
+  "movies" : [ {
+    "title" : "Marty",
+    "year" : 1955
+  } ]
+}, {
+  "name" : "Yul Brynner",
+  "sex" : "H",
+  "yearOfBirth" : 1920,
+  "movies" : [ {
+    "title" : "The King and I",
+    "year" : 1956
+  } ]
+}, {
+  "name" : "Alec Guinness",
+  "sex" : "H",
+  "yearOfBirth" : 1914,
+  "movies" : [ {
+    "title" : "The Bridge on the River Kwai",
+    "year" : 1957
+  } ]
+}, {
+  "name" : "David Niven",
+  "sex" : "H",
+  "yearOfBirth" : 1909,
+  "movies" : [ {
+    "title" : "Separate Tables",
+    "year" : 1958
+  } ]
+}, {
+  "name" : "Charlton Heston",
+  "sex" : "H",
+  "yearOfBirth" : 1923,
+  "movies" : [ {
+    "title" : "Ben-Hur",
+    "year" : 1959
+  } ]
+}, {
+  "name" : "Burt Lancaster",
+  "sex" : "H",
+  "yearOfBirth" : 1913,
+  "movies" : [ {
+    "title" : "Elmer Gantry",
+    "year" : 1960
+  } ]
+}, {
+  "name" : "Maximilian Schell",
+  "sex" : "H",
+  "yearOfBirth" : 1930,
+  "movies" : [ {
+    "title" : "Judgment at Nuremberg",
+    "year" : 1961
+  } ]
+}, {
+  "name" : "Gregory Peck",
+  "sex" : "H",
+  "yearOfBirth" : 1915,
+  "movies" : [ {
+    "title" : "To Kill a Mockingbird",
+    "year" : 1962
+  } ]
+}, {
+  "name" : "Sidney Poitier",
+  "sex" : "H",
+  "yearOfBirth" : 1926,
+  "movies" : [ {
+    "title" : "Lilies of the Field",
+    "year" : 1963
+  } ]
+}, {
+  "name" : "Rex Harrison",
+  "sex" : "H",
+  "yearOfBirth" : 1907,
+  "movies" : [ {
+    "title" : "My Fair Lady",
+    "year" : 1964
+  } ]
+}, {
+  "name" : "Lee Marvin",
+  "sex" : "H",
+  "yearOfBirth" : 1923,
+  "movies" : [ {
+    "title" : "Cat Ballou",
+    "year" : 1965
+  } ]
+}, {
+  "name" : "Paul Scofield",
+  "sex" : "H",
+  "yearOfBirth" : 1921,
+  "movies" : [ {
+    "title" : "A Man for All Seasons",
+    "year" : 1966
+  } ]
+}, {
+  "name" : "Rod Steiger",
+  "sex" : "H",
+  "yearOfBirth" : 1925,
+  "movies" : [ {
+    "title" : "In the Heat of the Night",
+    "year" : 1967
+  } ]
+}, {
+  "name" : "Cliff Robertson",
+  "sex" : "H",
+  "yearOfBirth" : 1923,
+  "movies" : [ {
+    "title" : "Charly",
+    "year" : 1968
+  } ]
+}, {
+  "name" : "John Wayne",
+  "sex" : "H",
+  "yearOfBirth" : 1907,
+  "movies" : [ {
+    "title" : "True Grit",
+    "year" : 1969
+  } ]
+}, {
+  "name" : "George C. Scott",
+  "sex" : "H",
+  "yearOfBirth" : 1927,
+  "movies" : [ {
+    "title" : "Patton",
+    "year" : 1970
+  } ]
+}, {
+  "name" : "Gene Hackman",
+  "sex" : "H",
+  "yearOfBirth" : 1929,
+  "movies" : [ {
+    "title" : "The French Connection",
+    "year" : 1971
+  } ]
+}, {
+  "name" : "Jack Lemmon",
+  "sex" : "H",
+  "yearOfBirth" : 1924,
+  "movies" : [ {
+    "title" : "Save the Tiger",
+    "year" : 1973
+  } ]
+}, {
+  "name" : "Art Carney",
+  "sex" : "H",
+  "yearOfBirth" : 1918,
+  "movies" : [ {
+    "title" : "Harry and Tonto",
+    "year" : 1974
+  } ]
+}, {
+  "name" : "Jack Nicholson",
+  "sex" : "H",
+  "yearOfBirth" : 1937,
+  "movies" : [ {
+    "title" : "One Flew Over the Cuckoo's Nest",
+    "year" : 1975
+  }, {
+    "title" : "As Good as It Gets",
+    "year" : 1997
+  } ]
+}, {
+  "name" : "Peter Finch",
+  "sex" : "H",
+  "yearOfBirth" : 1916,
+  "movies" : [ {
+    "title" : "Network",
+    "year" : 1976
+  } ]
+}, {
+  "name" : "Richard Dreyfuss",
+  "sex" : "H",
+  "yearOfBirth" : 1947,
+  "movies" : [ {
+    "title" : "The Goodbye Girl",
+    "year" : 1977
+  } ]
+}, {
+  "name" : "Jon Voight",
+  "sex" : "H",
+  "yearOfBirth" : 1938,
+  "movies" : [ {
+    "title" : "Coming Home",
+    "year" : 1978
+  } ]
+}, {
+  "name" : "Dustin Hoffman",
+  "sex" : "H",
+  "yearOfBirth" : 1937,
+  "movies" : [ {
+    "title" : "Kramer vs. Kramer",
+    "year" : 1979
+  }, {
+    "title" : "Rain Man",
+    "year" : 1988
+  } ]
+}, {
+  "name" : "Robert De Niro",
+  "sex" : "H",
+  "yearOfBirth" : 1941,
+  "movies" : [ {
+    "title" : "Raging Bull",
+    "year" : 1980
+  } ]
+}, {
+  "name" : "Henry Fonda",
+  "sex" : "H",
+  "yearOfBirth" : 1905,
+  "movies" : [ {
+    "title" : "On Golden Pond",
+    "year" : 1981
+  } ]
+}, {
+  "name" : "Ben Kingsley",
+  "sex" : "H",
+  "yearOfBirth" : 1943,
+  "movies" : [ {
+    "title" : "Gandhi",
+    "year" : 1982
+  } ]
+}, {
+  "name" : "Robert Duvall",
+  "sex" : "H",
+  "yearOfBirth" : 1930,
+  "movies" : [ {
+    "title" : "Tender Mercies",
+    "year" : 1983
+  } ]
+}, {
+  "name" : "F. Murray Abraham",
+  "sex" : "H",
+  "yearOfBirth" : 1939,
+  "movies" : [ {
+    "title" : "Amadeus",
+    "year" : 1984
+  } ]
+}, {
+  "name" : "William Hurt",
+  "sex" : "H",
+  "yearOfBirth" : 1949,
+  "movies" : [ {
+    "title" : "Kiss of the Spider Woman",
+    "year" : 1985
+  } ]
+}, {
+  "name" : "Paul Newman",
+  "sex" : "H",
+  "yearOfBirth" : 1924,
+  "movies" : [ {
+    "title" : "The Color of Money",
+    "year" : 1986
+  } ]
+}, {
+  "name" : "Michael Douglas",
+  "sex" : "H",
+  "yearOfBirth" : 1944,
+  "movies" : [ {
+    "title" : "Wall Street",
+    "year" : 1987
+  } ]
+}, {
+  "name" : "Daniel Day-Lewis",
+  "sex" : "H",
+  "yearOfBirth" : 1957,
+  "movies" : [ {
+    "title" : "My Left Foot",
+    "year" : 1989
+  }, {
+    "title" : "There Will Be Blood",
+    "year" : 2007
+  }, {
+    "title" : "Lincoln",
+    "year" : 2012
+  } ]
+}, {
+  "name" : "Jeremy Irons",
+  "sex" : "H",
+  "yearOfBirth" : 1948,
+  "movies" : [ {
+    "title" : "Reversal of Fortune",
+    "year" : 1990
+  } ]
+}, {
+  "name" : "Anthony Hopkins",
+  "sex" : "H",
+  "yearOfBirth" : 1937,
+  "movies" : [ {
+    "title" : "The Silence of the Lambs",
+    "year" : 1991
+  }, {
+    "title" : "The Father",
+    "year" : 2020
+  } ]
+}, {
+  "name" : "Al Pacino",
+  "sex" : "H",
+  "yearOfBirth" : 1940,
+  "movies" : [ {
+    "title" : "Scent of a Woman",
+    "year" : 1992
+  } ]
+}, {
+  "name" : "Tom Hanks",
+  "sex" : "H",
+  "yearOfBirth" : 1956,
+  "movies" : [ {
+    "title" : "Philadelphia",
+    "year" : 1993
+  }, {
+    "title" : "Forrest Gump",
+    "year" : 1994
+  } ]
+}, {
+  "name" : "Nicolas Cage",
+  "sex" : "H",
+  "yearOfBirth" : 1963,
+  "movies" : [ {
+    "title" : "Leaving Las Vegas",
+    "year" : 1995
+  } ]
+}, {
+  "name" : "Geoffrey Rush",
+  "sex" : "H",
+  "yearOfBirth" : 1951,
+  "movies" : [ {
+    "title" : "Shine",
+    "year" : 1996
+  } ]
+}, {
+  "name" : "Roberto Benigni",
+  "sex" : "H",
+  "yearOfBirth" : 1952,
+  "movies" : [ {
+    "title" : "Life Is Beautiful",
+    "year" : 1998
+  } ]
+}, {
+  "name" : "Kevin Spacey",
+  "sex" : "H",
+  "yearOfBirth" : 1959,
+  "movies" : [ {
+    "title" : "American Beauty",
+    "year" : 1999
+  } ]
+}, {
+  "name" : "Russell Crowe",
+  "sex" : "H",
+  "yearOfBirth" : 1964,
+  "movies" : [ {
+    "title" : "Gladiator",
+    "year" : 2000
+  } ]
+}, {
+  "name" : "Denzel Washington",
+  "sex" : "H",
+  "yearOfBirth" : 1954,
+  "movies" : [ {
+    "title" : "Training Day",
+    "year" : 2001
+  } ]
+}, {
+  "name" : "Adrien Brody",
+  "sex" : "H",
+  "yearOfBirth" : 1973,
+  "movies" : [ {
+    "title" : "The Pianist",
+    "year" : 2002
+  } ]
+}, {
+  "name" : "Sean Penn",
+  "sex" : "H",
+  "yearOfBirth" : 1960,
+  "movies" : [ {
+    "title" : "Mystic River",
+    "year" : 2003
+  }, {
+    "title" : "Milk",
+    "year" : 2008
+  } ]
+}, {
+  "name" : "Jamie Foxx",
+  "sex" : "H",
+  "yearOfBirth" : 1967,
+  "movies" : [ {
+    "title" : "Ray",
+    "year" : 2004
+  } ]
+}, {
+  "name" : "Philip Seymour Hoffman",
+  "sex" : "H",
+  "yearOfBirth" : 1967,
+  "movies" : [ {
+    "title" : "Capote",
+    "year" : 2005
+  } ]
+}, {
+  "name" : "Forest Whitaker",
+  "sex" : "H",
+  "yearOfBirth" : 1961,
+  "movies" : [ {
+    "title" : "The Last King of Scotland",
+    "year" : 2006
+  } ]
+}, {
+  "name" : "Jeff Bridges",
+  "sex" : "H",
+  "yearOfBirth" : 1949,
+  "movies" : [ {
+    "title" : "Crazy Heart",
+    "year" : 2009
+  } ]
+}, {
+  "name" : "Colin Firth",
+  "sex" : "H",
+  "yearOfBirth" : 1960,
+  "movies" : [ {
+    "title" : "The King's Speech",
+    "year" : 2010
+  } ]
+}, {
+  "name" : "Jean Dujardin",
+  "sex" : "H",
+  "yearOfBirth" : 1972,
+  "movies" : [ {
+    "title" : "The Artist",
+    "year" : 2011
+  } ]
+}, {
+  "name" : "Matthew McConaughey",
+  "sex" : "H",
+  "yearOfBirth" : 1969,
+  "movies" : [ {
+    "title" : "Dallas Buyers Club",
+    "year" : 2013
+  } ]
+}, {
+  "name" : "Eddie Redmayne",
+  "sex" : "H",
+  "yearOfBirth" : 1981,
+  "movies" : [ {
+    "title" : "The Theory of Everything",
+    "year" : 2014
+  } ]
+}, {
+  "name" : "Leonardo DiCaprio",
+  "sex" : "H",
+  "yearOfBirth" : 1974,
+  "movies" : [ {
+    "title" : "The Revenant",
+    "year" : 2015
+  } ]
+}, {
+  "name" : "Casey Affleck",
+  "sex" : "H",
+  "yearOfBirth" : 1975,
+  "movies" : [ {
+    "title" : "Manchester by the Sea",
+    "year" : 2016
+  } ]
+}, {
+  "name" : "Gary Oldman",
+  "sex" : "H",
+  "yearOfBirth" : 1958,
+  "movies" : [ {
+    "title" : "Darkest Hour",
+    "year" : 2017
+  } ]
+}, {
+  "name" : "Rami Malek",
+  "sex" : "H",
+  "yearOfBirth" : 1981,
+  "movies" : [ {
+    "title" : "Bohemian Rhapsody",
+    "year" : 2018
+  } ]
+}, {
+  "name" : "Joaquin Phoenix",
+  "sex" : "H",
+  "yearOfBirth" : 1974,
+  "movies" : [ {
+    "title" : "Joker",
+    "year" : 2019
+  } ]
+}, {
+  "name" : "Will Smith",
+  "sex" : "H",
+  "yearOfBirth" : 1968,
+  "movies" : [ {
+    "title" : "King Richard",
+    "year" : 2021
+  } ]
+}, {
+  "name" : "Brendan Fraser",
+  "sex" : "H",
+  "yearOfBirth" : 1968,
+  "movies" : [ {
+    "title" : "The Whale",
+    "year" : 2022
+  } ]
+}, {
+  "name" : "Janet Gaynor",
+  "sex" : "M",
+  "yearOfBirth" : 1906,
+  "movies" : [ {
+    "title" : "Seventh Heaven, Street Angel and Sunrise: A Song of Two Humans",
+    "year" : 1928
+  } ]
+}, {
+  "name" : "Mary Pickford",
+  "sex" : "M",
+  "yearOfBirth" : 1892,
+  "movies" : [ {
+    "title" : "Coquette",
+    "year" : 1929
+  } ]
+}, {
+  "name" : "Norma Shearer",
+  "sex" : "M",
+  "yearOfBirth" : 1902,
+  "movies" : [ {
+    "title" : "The Divorcee",
+    "year" : 1930
+  } ]
+}, {
+  "name" : "Marie Dressler",
+  "sex" : "M",
+  "yearOfBirth" : 1868,
+  "movies" : [ {
+    "title" : "Min and Bill",
+    "year" : 1931
+  } ]
+}, {
+  "name" : "Helen Hayes",
+  "sex" : "M",
+  "yearOfBirth" : 1900,
+  "movies" : [ {
+    "title" : "The Sin of Madelon Claudet",
+    "year" : 1932
+  } ]
+}, {
+  "name" : "Katharine Hepburn",
+  "sex" : "M",
+  "yearOfBirth" : 1907,
+  "movies" : [ {
+    "title" : "Morning Glory",
+    "year" : 1933
+  }, {
+    "title" : "Guess Who's Coming to Dinner",
+    "year" : 1967
+  }, {
+    "title" : "The Lion in Winter",
+    "year" : 1968
+  }, {
+    "title" : "On Golden Pond",
+    "year" : 1981
+  } ]
+}, {
+  "name" : "Claudette Colbert",
+  "sex" : "M",
+  "yearOfBirth" : 1903,
+  "movies" : [ {
+    "title" : "It Happened One Night",
+    "year" : 1934
+  } ]
+}, {
+  "name" : "Bette Davis",
+  "sex" : "M",
+  "yearOfBirth" : 1908,
+  "movies" : [ {
+    "title" : "Dangerous",
+    "year" : 1935
+  }, {
+    "title" : "Jezebel",
+    "year" : 1938
+  } ]
+}, {
+  "name" : "Luise Rainer",
+  "sex" : "M",
+  "yearOfBirth" : 1909,
+  "movies" : [ {
+    "title" : "The Great Ziegfeld",
+    "year" : 1936
+  }, {
+    "title" : "The Good Earth",
+    "year" : 1937
+  } ]
+}, {
+  "name" : "Vivien Leigh",
+  "sex" : "M",
+  "yearOfBirth" : 1913,
+  "movies" : [ {
+    "title" : "Gone with the Wind",
+    "year" : 1939
+  }, {
+    "title" : "A Streetcar Named Desire",
+    "year" : 1951
+  } ]
+}, {
+  "name" : "Ginger Rogers",
+  "sex" : "M",
+  "yearOfBirth" : 1911,
+  "movies" : [ {
+    "title" : "Kitty Foyle",
+    "year" : 1940
+  } ]
+}, {
+  "name" : "Joan Fontaine",
+  "sex" : "M",
+  "yearOfBirth" : 1917,
+  "movies" : [ {
+    "title" : "Suspicion",
+    "year" : 1941
+  } ]
+}, {
+  "name" : "Greer Garson",
+  "sex" : "M",
+  "yearOfBirth" : 1904,
+  "movies" : [ {
+    "title" : "Mrs. Miniver",
+    "year" : 1942
+  } ]
+}, {
+  "name" : "Jennifer Jones",
+  "sex" : "M",
+  "yearOfBirth" : 1918,
+  "movies" : [ {
+    "title" : "The Song of Bernadette",
+    "year" : 1943
+  } ]
+}, {
+  "name" : "Ingrid Bergman",
+  "sex" : "M",
+  "yearOfBirth" : 1915,
+  "movies" : [ {
+    "title" : "Gaslight",
+    "year" : 1944
+  }, {
+    "title" : "Anastasia",
+    "year" : 1956
+  } ]
+}, {
+  "name" : "Joan Crawford",
+  "sex" : "M",
+  "yearOfBirth" : 1905,
+  "movies" : [ {
+    "title" : "Mildred Pierce",
+    "year" : 1945
+  } ]
+}, {
+  "name" : "Olivia de Havilland",
+  "sex" : "M",
+  "yearOfBirth" : 1916,
+  "movies" : [ {
+    "title" : "To Each His Own",
+    "year" : 1946
+  }, {
+    "title" : "The Heiress",
+    "year" : 1949
+  } ]
+}, {
+  "name" : "Loretta Young",
+  "sex" : "M",
+  "yearOfBirth" : 1912,
+  "movies" : [ {
+    "title" : "The Farmer's Daughter",
+    "year" : 1947
+  } ]
+}, {
+  "name" : "Jane Wyman",
+  "sex" : "M",
+  "yearOfBirth" : 1916,
+  "movies" : [ {
+    "title" : "Johnny Belinda",
+    "year" : 1948
+  } ]
+}, {
+  "name" : "Judy Holliday",
+  "sex" : "M",
+  "yearOfBirth" : 1921,
+  "movies" : [ {
+    "title" : "Born Yesterday",
+    "year" : 1950
+  } ]
+}, {
+  "name" : "Shirley Booth",
+  "sex" : "M",
+  "yearOfBirth" : 1898,
+  "movies" : [ {
+    "title" : "Come Back, Little Sheba",
+    "year" : 1952
+  } ]
+}, {
+  "name" : "Audrey Hepburn",
+  "sex" : "M",
+  "yearOfBirth" : 1929,
+  "movies" : [ {
+    "title" : "Roman Holiday",
+    "year" : 1953
+  } ]
+}, {
+  "name" : "Grace Kelly",
+  "sex" : "M",
+  "yearOfBirth" : 1929,
+  "movies" : [ {
+    "title" : "The Country Girl",
+    "year" : 1954
+  } ]
+}, {
+  "name" : "Anna Magnani",
+  "sex" : "M",
+  "yearOfBirth" : 1907,
+  "movies" : [ {
+    "title" : "The Rose Tattoo",
+    "year" : 1955
+  } ]
+}, {
+  "name" : "Joanne Woodward",
+  "sex" : "M",
+  "yearOfBirth" : 1929,
+  "movies" : [ {
+    "title" : "The Three Faces of Eve",
+    "year" : 1957
+  } ]
+}, {
+  "name" : "Susan Hayward",
+  "sex" : "M",
+  "yearOfBirth" : 1917,
+  "movies" : [ {
+    "title" : "I Want to Live!",
+    "year" : 1958
+  } ]
+}, {
+  "name" : "Simone Signoret",
+  "sex" : "M",
+  "yearOfBirth" : 1920,
+  "movies" : [ {
+    "title" : "Room at the Top",
+    "year" : 1959
+  } ]
+}, {
+  "name" : "Elizabeth Taylor",
+  "sex" : "M",
+  "yearOfBirth" : 1931,
+  "movies" : [ {
+    "title" : "BUtterfield 8",
+    "year" : 1960
+  }, {
+    "title" : "Who's Afraid of Virginia Woolf?",
+    "year" : 1966
+  } ]
+}, {
+  "name" : "Sophia Loren",
+  "sex" : "M",
+  "yearOfBirth" : 1934,
+  "movies" : [ {
+    "title" : "Two Women",
+    "year" : 1961
+  } ]
+}, {
+  "name" : "Anne Bancroft",
+  "sex" : "M",
+  "yearOfBirth" : 1931,
+  "movies" : [ {
+    "title" : "The Miracle Worker",
+    "year" : 1962
+  } ]
+}, {
+  "name" : "Patricia Neal",
+  "sex" : "M",
+  "yearOfBirth" : 1932,
+  "movies" : [ {
+    "title" : "Hud",
+    "year" : 1963
+  } ]
+}, {
+  "name" : "Julie Andrews",
+  "sex" : "M",
+  "yearOfBirth" : 1935,
+  "movies" : [ {
+    "title" : "Mary Poppins",
+    "year" : 1964
+  } ]
+}, {
+  "name" : "Julie Christie",
+  "sex" : "M",
+  "yearOfBirth" : 1940,
+  "movies" : [ {
+    "title" : "Darling",
+    "year" : 1965
+  } ]
+}, {
+  "name" : "Barbra Streisand",
+  "sex" : "M",
+  "yearOfBirth" : 1942,
+  "movies" : [ {
+    "title" : "Funny Girl",
+    "year" : 1968
+  } ]
+}, {
+  "name" : "Maggie Smith",
+  "sex" : "M",
+  "yearOfBirth" : 1934,
+  "movies" : [ {
+    "title" : "The Prime of Miss Jean Brodie",
+    "year" : 1969
+  } ]
+}, {
+  "name" : "Glenda Jackson",
+  "sex" : "M",
+  "yearOfBirth" : 1936,
+  "movies" : [ {
+    "title" : "Women in Love",
+    "year" : 1970
+  }, {
+    "title" : "A Touch of Class",
+    "year" : 1973
+  } ]
+}, {
+  "name" : "Jane Fonda",
+  "sex" : "M",
+  "yearOfBirth" : 1937,
+  "movies" : [ {
+    "title" : "Klute",
+    "year" : 1971
+  }, {
+    "title" : "Coming Home",
+    "year" : 1978
+  } ]
+}, {
+  "name" : "Liza Minnelli",
+  "sex" : "M",
+  "yearOfBirth" : 1945,
+  "movies" : [ {
+    "title" : "Cabaret",
+    "year" : 1972
+  } ]
+}, {
+  "name" : "Ellen Burstyn",
+  "sex" : "M",
+  "yearOfBirth" : 1932,
+  "movies" : [ {
+    "title" : "Alice Doesn't Live Here Anymore",
+    "year" : 1974
+  } ]
+}, {
+  "name" : "Louise Fletcher",
+  "sex" : "M",
+  "yearOfBirth" : 1934,
+  "movies" : [ {
+    "title" : "One Flew Over the Cuckoo's Nest",
+    "year" : 1975
+  } ]
+}, {
+  "name" : "Faye Dunaway",
+  "sex" : "M",
+  "yearOfBirth" : 1940,
+  "movies" : [ {
+    "title" : "Network",
+    "year" : 1976
+  } ]
+}, {
+  "name" : "Diane Keaton",
+  "sex" : "M",
+  "yearOfBirth" : 1945,
+  "movies" : [ {
+    "title" : "Annie Hall",
+    "year" : 1977
+  } ]
+}, {
+  "name" : "Sally Field",
+  "sex" : "M",
+  "yearOfBirth" : 1946,
+  "movies" : [ {
+    "title" : "Norma Rae",
+    "year" : 1979
+  }, {
+    "title" : "Places in the Heart",
+    "year" : 1984
+  } ]
+}, {
+  "name" : "Sissy Spacek",
+  "sex" : "M",
+  "yearOfBirth" : 1949,
+  "movies" : [ {
+    "title" : "Coal Miner's Daughter",
+    "year" : 1980
+  } ]
+}, {
+  "name" : "Meryl Streep",
+  "sex" : "M",
+  "yearOfBirth" : 1949,
+  "movies" : [ {
+    "title" : "Sophie's Choice",
+    "year" : 1982
+  }, {
+    "title" : "The Iron Lady",
+    "year" : 2011
+  } ]
+}, {
+  "name" : "Shirley MacLaine",
+  "sex" : "M",
+  "yearOfBirth" : 1934,
+  "movies" : [ {
+    "title" : "Terms of Endearment",
+    "year" : 1983
+  } ]
+}, {
+  "name" : "Geraldine Page",
+  "sex" : "M",
+  "yearOfBirth" : 1924,
+  "movies" : [ {
+    "title" : "The Trip to Bountiful",
+    "year" : 1985
+  } ]
+}, {
+  "name" : "Marlee Matlin",
+  "sex" : "M",
+  "yearOfBirth" : 1965,
+  "movies" : [ {
+    "title" : "Children of a Lesser God",
+    "year" : 1986
+  } ]
+}, {
+  "name" : "Cher",
+  "sex" : "M",
+  "yearOfBirth" : 1946,
+  "movies" : [ {
+    "title" : "Moonstruck",
+    "year" : 1987
+  } ]
+}, {
+  "name" : "Jodie Foster",
+  "sex" : "M",
+  "yearOfBirth" : 1962,
+  "movies" : [ {
+    "title" : "The Accused",
+    "year" : 1988
+  }, {
+    "title" : "The Silence of the Lambs",
+    "year" : 1991
+  } ]
+}, {
+  "name" : "Jessica Tandy",
+  "sex" : "M",
+  "yearOfBirth" : 1909,
+  "movies" : [ {
+    "title" : "Driving Miss Daisy",
+    "year" : 1989
+  } ]
+}, {
+  "name" : "Kathy Bates",
+  "sex" : "M",
+  "yearOfBirth" : 1948,
+  "movies" : [ {
+    "title" : "Misery",
+    "year" : 1990
+  } ]
+}, {
+  "name" : "Emma Thompson",
+  "sex" : "M",
+  "yearOfBirth" : 1959,
+  "movies" : [ {
+    "title" : "Howards End",
+    "year" : 1992
+  } ]
+}, {
+  "name" : "Holly Hunter",
+  "sex" : "M",
+  "yearOfBirth" : 1957,
+  "movies" : [ {
+    "title" : "The Piano",
+    "year" : 1993
+  } ]
+}, {
+  "name" : "Jessica Lange",
+  "sex" : "M",
+  "yearOfBirth" : 1949,
+  "movies" : [ {
+    "title" : "Blue Sky",
+    "year" : 1994
+  } ]
+}, {
+  "name" : "Susan Sarandon",
+  "sex" : "M",
+  "yearOfBirth" : 1946,
+  "movies" : [ {
+    "title" : "Dead Man Walking",
+    "year" : 1995
+  } ]
+}, {
+  "name" : "Frances McDormand",
+  "sex" : "M",
+  "yearOfBirth" : 1957,
+  "movies" : [ {
+    "title" : "Fargo",
+    "year" : 1996
+  }, {
+    "title" : "Three Billboards Outside Ebbing, Missouri",
+    "year" : 2017
+  }, {
+    "title" : "Nomadland",
+    "year" : 2020
+  } ]
+}, {
+  "name" : "Helen Hunt",
+  "sex" : "M",
+  "yearOfBirth" : 1963,
+  "movies" : [ {
+    "title" : "As Good as It Gets",
+    "year" : 1997
+  } ]
+}, {
+  "name" : "Gwyneth Paltrow",
+  "sex" : "M",
+  "yearOfBirth" : 1972,
+  "movies" : [ {
+    "title" : "Shakespeare in Love",
+    "year" : 1998
+  } ]
+}, {
+  "name" : "Hilary Swank",
+  "sex" : "M",
+  "yearOfBirth" : 1974,
+  "movies" : [ {
+    "title" : "Boys Don't Cry",
+    "year" : 1999
+  }, {
+    "title" : "Million Dollar Baby",
+    "year" : 2004
+  } ]
+}, {
+  "name" : "Julia Roberts",
+  "sex" : "M",
+  "yearOfBirth" : 1967,
+  "movies" : [ {
+    "title" : "Erin Brockovich",
+    "year" : 2000
+  } ]
+}, {
+  "name" : "Halle Berry",
+  "sex" : "M",
+  "yearOfBirth" : 1966,
+  "movies" : [ {
+    "title" : "Monster's Ball",
+    "year" : 2001
+  } ]
+}, {
+  "name" : "Nicole Kidman",
+  "sex" : "M",
+  "yearOfBirth" : 1967,
+  "movies" : [ {
+    "title" : "The Hours",
+    "year" : 2002
+  } ]
+}, {
+  "name" : "Charlize Theron",
+  "sex" : "M",
+  "yearOfBirth" : 1975,
+  "movies" : [ {
+    "title" : "Monster",
+    "year" : 2003
+  } ]
+}, {
+  "name" : "Reese Witherspoon",
+  "sex" : "M",
+  "yearOfBirth" : 1976,
+  "movies" : [ {
+    "title" : "Walk the Line",
+    "year" : 2005
+  } ]
+}, {
+  "name" : "Helen Mirren",
+  "sex" : "M",
+  "yearOfBirth" : 1945,
+  "movies" : [ {
+    "title" : "The Queen",
+    "year" : 2006
+  } ]
+}, {
+  "name" : "Marion Cotillard",
+  "sex" : "M",
+  "yearOfBirth" : 1975,
+  "movies" : [ {
+    "title" : "La Vie en rose",
+    "year" : 2007
+  } ]
+}, {
+  "name" : "Kate Winslet",
+  "sex" : "M",
+  "yearOfBirth" : 1975,
+  "movies" : [ {
+    "title" : "The Reader",
+    "year" : 2008
+  } ]
+}, {
+  "name" : "Sandra Bullock",
+  "sex" : "M",
+  "yearOfBirth" : 1964,
+  "movies" : [ {
+    "title" : "The Blind Side",
+    "year" : 2009
+  } ]
+}, {
+  "name" : "Natalie Portman",
+  "sex" : "M",
+  "yearOfBirth" : 1981,
+  "movies" : [ {
+    "title" : "Black Swan",
+    "year" : 2010
+  } ]
+}, {
+  "name" : "Jennifer Lawrence",
+  "sex" : "M",
+  "yearOfBirth" : 1990,
+  "movies" : [ {
+    "title" : "Silver Linings Playbook",
+    "year" : 2012
+  } ]
+}, {
+  "name" : "Cate Blanchett",
+  "sex" : "M",
+  "yearOfBirth" : 1969,
+  "movies" : [ {
+    "title" : "Blue Jasmine",
+    "year" : 2013
+  } ]
+}, {
+  "name" : "Julianne Moore",
+  "sex" : "M",
+  "yearOfBirth" : 1960,
+  "movies" : [ {
+    "title" : "Still Alice",
+    "year" : 2014
+  } ]
+}, {
+  "name" : "Brie Larson",
+  "sex" : "M",
+  "yearOfBirth" : 1989,
+  "movies" : [ {
+    "title" : "Room",
+    "year" : 2015
+  } ]
+}, {
+  "name" : "Emma Stone",
+  "sex" : "M",
+  "yearOfBirth" : 1988,
+  "movies" : [ {
+    "title" : "La La Land",
+    "year" : 2016
+  } ]
+}, {
+  "name" : "Olivia Colman",
+  "sex" : "M",
+  "yearOfBirth" : 1974,
+  "movies" : [ {
+    "title" : "The Favourite",
+    "year" : 2018
+  } ]
+}, {
+  "name" : "Renée Zellweger",
+  "sex" : "M",
+  "yearOfBirth" : 1969,
+  "movies" : [ {
+    "title" : "Judy",
+    "year" : 2019
+  } ]
+}, {
+  "name" : "Jessica Chastain",
+  "sex" : "M",
+  "yearOfBirth" : 1977,
+  "movies" : [ {
+    "title" : "The Eyes of Tammy Faye",
+    "year" : 2021
+  } ]
+}, {
+  "name" : "Michelle Yeoh",
+  "sex" : "M",
+  "yearOfBirth" : 1962,
+  "movies" : [ {
+    "title" : "Everything Everywhere All at Once",
+    "year" : 2022
+  } ]
+} ]

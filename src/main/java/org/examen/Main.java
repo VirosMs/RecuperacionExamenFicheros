@@ -30,11 +30,15 @@ public class Main {
 
         //actorList.forEach(System.out::println);
 
-        Utilidades.escribirActoresenJson(actorList, Path.of(".", "src", "main", "resources", "actores.json"));
+        Utilidades.escribirActoresenJson(actorList, Path.of(".", "src", "main", "resources","salida", "actores.json"));
 
         List<String> actores = actoresConMasdeUnOscar(actorList);
 
-        actores.forEach(System.out::println);
+        //actores.forEach(System.out::println);
+
+        List<String> actoresMasJovenes = actoresMasJovenesEnGanarUnOscar(peliculaOscarizadaList);
+
+        actoresMasJovenes.forEach(System.out::println);
 
 
     }
